@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\bin\Debug\MaxNumberSeries.exe.config
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\bin\Debug\MaxNumberSeries.exe
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\bin\Debug\MaxNumberSeries.pdb
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\obj\Debug\MaxNumberSeries.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\obj\Debug\MaxNumberSeries.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\obj\Debug\MaxNumberSeries.exe
+C:\Users\dell\source\repos\MaxNumberSeries\MaxNumberSeries\obj\Debug\MaxNumberSeries.pdb
